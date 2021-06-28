@@ -4,7 +4,7 @@ To run this HATS, python3 and the following packages are required:
 * awkward
 * ROOT
 * NumPy
-* uproot-methods
+* vector
 * matplotlib
 * scipy
 * Jupyter Notebook
